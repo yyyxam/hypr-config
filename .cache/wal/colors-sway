@@ -1,0 +1,21 @@
+set $wallpaper /home/mxy/wallpaper/macos-monterey-wwdc-21-stock-5k-3840x2160-5584.jpg
+
+set $background #180c4a
+set $foreground #decfdd
+
+set $color0 #180c4a
+set $color1 #C6649E
+set $color2 #C86FA3
+set $color3 #9928CF
+set $color4 #B444C2
+set $color5 #CC8EB4
+set $color6 #CA99C6
+set $color7 #decfdd
+set $color8 #9b909a
+set $color9 #C6649E
+set $color10 #C86FA3
+set $color11 #9928CF
+set $color12 #B444C2
+set $color13 #CC8EB4
+set $color14 #CA99C6
+set $color15 #decfdd

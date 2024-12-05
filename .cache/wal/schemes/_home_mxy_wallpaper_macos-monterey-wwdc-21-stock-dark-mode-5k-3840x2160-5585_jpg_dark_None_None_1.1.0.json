@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mxy/wallpaper/macos-monterey-wwdc-21-stock-dark-mode-5k-3840x2160-5585.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C031E",
+        "foreground": "#ab94d1",
+        "cursor": "#ab94d1"
+    },
+    "colors": {
+        "color0": "#0C031E",
+        "color1": "#3614A9",
+        "color2": "#3D23B7",
+        "color3": "#4D178B",
+        "color4": "#6A178F",
+        "color5": "#60289D",
+        "color6": "#5026AE",
+        "color7": "#ab94d1",
+        "color8": "#776792",
+        "color9": "#3614A9",
+        "color10": "#3D23B7",
+        "color11": "#4D178B",
+        "color12": "#6A178F",
+        "color13": "#60289D",
+        "color14": "#5026AE",
+        "color15": "#ab94d1"
+    }
+}

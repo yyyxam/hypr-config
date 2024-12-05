@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mxy/wallpaper/5033119.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#131311",
+        "foreground": "#e7e5e0",
+        "cursor": "#e7e5e0"
+    },
+    "colors": {
+        "color0": "#131311",
+        "color1": "#886C8D",
+        "color2": "#53998C",
+        "color3": "#A9A19A",
+        "color4": "#CFB499",
+        "color5": "#E2D3A6",
+        "color6": "#B6C0C2",
+        "color7": "#e7e5e0",
+        "color8": "#a1a09c",
+        "color9": "#886C8D",
+        "color10": "#53998C",
+        "color11": "#A9A19A",
+        "color12": "#CFB499",
+        "color13": "#E2D3A6",
+        "color14": "#B6C0C2",
+        "color15": "#e7e5e0"
+    }
+}

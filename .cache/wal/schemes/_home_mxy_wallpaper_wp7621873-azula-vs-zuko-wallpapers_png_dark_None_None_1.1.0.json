@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mxy/wallpaper/wp7621873-azula-vs-zuko-wallpapers.png",
+    "alpha": "100",
+    "special": {
+        "background": "#050100",
+        "foreground": "#d1d4db",
+        "cursor": "#d1d4db"
+    },
+    "colors": {
+        "color0": "#050100",
+        "color1": "#FBA221",
+        "color2": "#F1B047",
+        "color3": "#FDE261",
+        "color4": "#5669B6",
+        "color5": "#49AAF5",
+        "color6": "#FCF09D",
+        "color7": "#d1d4db",
+        "color8": "#929499",
+        "color9": "#FBA221",
+        "color10": "#F1B047",
+        "color11": "#FDE261",
+        "color12": "#5669B6",
+        "color13": "#49AAF5",
+        "color14": "#FCF09D",
+        "color15": "#d1d4db"
+    }
+}

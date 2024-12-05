@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mxy/wallpaper/nasa1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0b0c",
+        "foreground": "#b3b6bc",
+        "cursor": "#b3b6bc"
+    },
+    "colors": {
+        "color0": "#0c0b0c",
+        "color1": "#3F3E43",
+        "color2": "#514D4C",
+        "color3": "#6B6563",
+        "color4": "#BB675B",
+        "color5": "#8C756A",
+        "color6": "#9A8777",
+        "color7": "#b3b6bc",
+        "color8": "#7d7f83",
+        "color9": "#3F3E43",
+        "color10": "#514D4C",
+        "color11": "#6B6563",
+        "color12": "#BB675B",
+        "color13": "#8C756A",
+        "color14": "#9A8777",
+        "color15": "#b3b6bc"
+    }
+}

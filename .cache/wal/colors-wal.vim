@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/mxy/wallpaper/macos-monterey-wwdc-21-stock-5k-3840x2160-5584.jpg"
+let background = "#180c4a"
+let foreground = "#decfdd"
+let cursor     = "#decfdd"
+
+" Colors
+let color0  = "#180c4a"
+let color1  = "#C6649E"
+let color2  = "#C86FA3"
+let color3  = "#9928CF"
+let color4  = "#B444C2"
+let color5  = "#CC8EB4"
+let color6  = "#CA99C6"
+let color7  = "#decfdd"
+let color8  = "#9b909a"
+let color9  = "#C6649E"
+let color10 = "#C86FA3"
+let color11 = "#9928CF"
+let color12 = "#B444C2"
+let color13 = "#CC8EB4"
+let color14 = "#CA99C6"
+let color15 = "#decfdd"
